@@ -1,6 +1,8 @@
 # Fighters PvP Game
 
 ![Fighters PvP Game](https://img.shields.io/badge/Game-Fighters_PvP-brightgreen)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/baa30945-7676-4548-b47a-9e0e140c8c6f/deploy-status)](https://app.netlify.com/sites/fighters-pvp/deploys)
+[![Playable on Chrome](https://img.shields.io/badge/Playable%20on-Chrome-informational?logo=google-chrome)](https://fighters-pvp.netlify.app/)
 
 This web application is designed for a real-time PvP (Player vs Player) fighting game using HTML5/Canvas. It features dynamic animations and interactive gameplay.
 
