@@ -1,5 +1,7 @@
 # Fighters PvP Game
 
+![Fighters PvP Game](https://img.shields.io/badge/Game-Fighters_PvP-brightgreen)
+
 This web application is designed for a real-time PvP (Player vs Player) fighting game using HTML5/Canvas. It features dynamic animations and interactive gameplay.
 
 ## Table of Contents
