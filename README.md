@@ -4,9 +4,9 @@ This web application is designed for a real-time PvP (Player vs Player) fighting
 
 ## Table of Contents
 
--  [📁 Folder Structure](#folder-structure)
+-  [Folder Structure](#folder-structure)
 -  [Usage](#usage)
--  [📸 Gif](#gif)
+-  [Gif](#gif)
 -  [Contributing](#contributing)
 -  [Dependencies](#dependencies)
 
