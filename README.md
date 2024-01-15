@@ -4,7 +4,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/baa30945-7676-4548-b47a-9e0e140c8c6f/deploy-status)](https://app.netlify.com/sites/fighters-pvp/deploys)
 [![Playable on Chrome](https://img.shields.io/badge/Playable%20on-Chrome-informational?logo=google-chrome)](https://fighters-pvp.netlify.app/)
 
-This web application is designed for a real-time PvP (Player vs Player) fighting game using HTML5/Canvas. It features dynamic animations and interactive gameplay.
+This web application is designed for a real-time PvP (Player vs Player) fighting game using HTML5/Canvas. I created and implemented features such as collisions, movement, UI, gravity, and responsive controls for two players: For the left player, controls are 'WASD', with 'S' for attack, and for the right player, controls are arrows, with the bottom arrow for attack. The game features dynamic animations and interactive gameplay.
 
 ## Table of Contents
 
