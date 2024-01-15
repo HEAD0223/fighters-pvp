@@ -10,7 +10,7 @@ This web application is designed for a real-time PvP (Player vs Player) fighting
 -  [Contributing](#contributing)
 -  [Dependencies](#dependencies)
 
-## 📁 Folder Structure
+## Folder Structure
 
 -  **assets:** Contains game-related assets such as images.
 -  **js:** JavaScript files for implementing game logic and interactions.
@@ -29,7 +29,7 @@ cd fighters-pvp
 2. Click `Go Live` in VS Code.
 3. Visit `http://localhost:5500` in your browser to experience the PvP game.
 
-## 📸 Gif
+## Gif
 
 ![Fighters-PvP](./assets/Fighters-PvP.gif)
 
