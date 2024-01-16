@@ -28,7 +28,7 @@ This web application is designed for a real-time PvP (Player vs Player) fighting
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/fighters-pvp.git
+git clone https://github.com/HEAD0223/fighters-pvp.git
 cd fighters-pvp
 ```
 
